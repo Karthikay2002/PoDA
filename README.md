@@ -45,6 +45,9 @@ DRONEYES can describe what’s going on the ground through the video output we g
 It can help to find things around the scouted area by describing, which is human, animal (by type) immediately and gives the exact position of the area that needs to be scouted.
 With the help of cloud technology, we can share the data in real time.
 
+# WORKFLOW
+
+<img src="img/flowchart.jpeg">
 
 # Challenges we ran into:-
 
