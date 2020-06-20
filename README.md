@@ -105,7 +105,7 @@ npm start
 ```
 http://localhost:3000
 ```
-
+<img src="img/cmd.JPG">
 
 # DRONE IMAGES
 
