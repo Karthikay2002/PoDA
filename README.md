@@ -49,6 +49,12 @@ With the help of cloud technology, we can share the data in real time.
 
 <img src="img/flowchart.jpeg">
 
+1) Once the GPS location and the area has to be set
+2) Animal or a Human has been detected by the Raspberry Pi Camera 
+3) The object detection Algorithm start running
+4) Alert is sent to the Base camp about what is seen by the camera from the detection
+5) GPS and the pictures are sent as an alert
+6) The above data is sent as an encrypted data, for not looksing it to cyber threat.
 # Challenges we ran into:-
 
 1)	Integrating the object detection into the drone’s camera is a big challenge that we faced during the hackathon.
@@ -57,6 +63,17 @@ With the help of cloud technology, we can share the data in real time.
 
 # Accomplishments we are proud of!
  We knew it was a hard task to implement our idea on a totally new platform and environment without our physical selves being at one place due to COVID-19, but we challenged ourselves to fight it till the end and we did it. Being able to transform our idea into a project that could be displayed feels great! We will never step back in life from trying something new every time. If we could stay up for 24 hours and accomplish our goal, we believe nothing is IMPOSSIBLE.
+ 
+# Future Scopes
+Making major advancements in the image overflow, making image enchancements to incerease the acurracy of the detection
+
+The need to cover larger land/area in shorter time is demanding. This can be only done by launching a network of these low-cost UAV's- SWARM ROBOTICS
+
+Shifting the Object Detection into the cloud by using AWS or AZURE cloud services would help to make the product more technical.
+
+ Edge computing using high performance computers, like jetson nano is a future step. Securing and sharing the data to make it even more safe from threats
+
+
 
 # OBJECT DETECTION
 
