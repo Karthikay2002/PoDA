@@ -136,5 +136,5 @@ http://localhost:3000
 
 # DRONE IMAGES
 
-<img src="https://github.com/yuvaraj-06/ETHEREUM-DRONEYES/blob/master/object%20detection/img/WhatsApp%20Image%202020-03-21%20at%205.38.22%20PM%20(1).jpeg">
-<img src="https://github.com/yuvaraj-06/ETHEREUM-DRONEYES/blob/master/object%20detection/img/WhatsApp%20Image%202020-03-21%20at%205.38.22%20PM.jpeg">
+<img src="img/WhatsApp Image 2020-06-21 at 2.50.56 PM.jpeg">
+
