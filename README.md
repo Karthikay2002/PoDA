@@ -5,13 +5,13 @@
  We are in a time where the outcomes of poaching are given a lot of value and money even though it is 
 considered illegal. Every day we are <b>losing hundreds of mammals belonging to endangered species</b> 
 this is mainly due to the lack of enforcement and proper 
-government regulations.
+government regulations. The increased demand in boasting of pride in holding animal assets has crossed the limit, which made poachers, money-making entities in the black market. Continuous monitoring by the park rangers would be a tedious task and may not even be done properly at times too. Animal Poaching has become a global problem of the 21st century. The increased spike in the rate of animal poaching is miserable to know. A part of this can be approached by using cuttingedge technologies. The Internet of Things and Computer Intelligence are few technologies that have been stupendously emerging hand in hand and can be used to solve world pressing problems.
 
 # Proposed Solution:-
 
-The prototyped solution would have a life-changing impact on the lives of 
+The prototyped solution would have a life-changing impact on 
 animals and probably help us catch the predators too. Implementing this 
-technology solution into the real world, it reduces the poaching curve to the 
+technology solution into the real world,red uces the poaching curve to the 
 minimum. Not only being the eyes from the sky, our prototype can get the clear 
 image of the terra-firma and detect what is what with the help of its camera.
 
@@ -33,7 +33,7 @@ The antena is also connected to the module through the cable which allows for ea
 
 
 We collected few videos from the sourceful web, and then we ran our software on the video and the results are pretty amusing. It went well. 
-We took a video of a neighbourhood which has cars and trucks and another video from NatGeo Wild. One is for detecting the cars and the other is for detecting the types of animals. 
+We took a video of a neighbourhood which has cars and trucks and another video from NatGeo Wild. One is for detecting the cars and the other is for detecting the types of animals.  Accompanying the current world technological advancements in the Internet Of Things and Deep Learning; Object detection has become an effortless job. The goal of our research is to achieve a feasible perspective on anti-poaching.
 The software model we used is YOLOv3
 
 # How we built it?
@@ -49,6 +49,12 @@ With the help of cloud technology, we can share the data in real time.
 
 <img src="img/flowchart.jpeg">
 
+1) Once the GPS location and the area has to be set
+2) Animal or a Human has been detected by the Raspberry Pi Camera 
+3) The object detection Algorithm start running
+4) Alert is sent to the Base camp about what is seen by the camera from the detection
+5) GPS and the pictures are sent as an alert
+6) The above data is sent as an encrypted data, for not looksing it to cyber threat.
 # Challenges we ran into:-
 
 1)	Integrating the object detection into the drone’s camera is a big challenge that we faced during the hackathon.
@@ -57,6 +63,17 @@ With the help of cloud technology, we can share the data in real time.
 
 # Accomplishments we are proud of!
  We knew it was a hard task to implement our idea on a totally new platform and environment without our physical selves being at one place due to COVID-19, but we challenged ourselves to fight it till the end and we did it. Being able to transform our idea into a project that could be displayed feels great! We will never step back in life from trying something new every time. If we could stay up for 24 hours and accomplish our goal, we believe nothing is IMPOSSIBLE.
+ 
+# Future Scopes
+Making major advancements in the image overflow, making image enchancements to incerease the acurracy of the detection
+
+The need to cover larger land/area in shorter time is demanding. This can be only done by launching a network of these low-cost UAV's- SWARM ROBOTICS
+
+Shifting the Object Detection into the cloud by using AWS or AZURE cloud services would help to make the product more technical.
+
+ Edge computing using high performance computers, like jetson nano is a future step. Securing and sharing the data to make it even more safe from threats
+
+
 
 # OBJECT DETECTION
 
@@ -119,5 +136,5 @@ http://localhost:3000
 
 # DRONE IMAGES
 
-<img src="https://github.com/yuvaraj-06/ETHEREUM-DRONEYES/blob/master/object%20detection/img/WhatsApp%20Image%202020-03-21%20at%205.38.22%20PM%20(1).jpeg">
-<img src="https://github.com/yuvaraj-06/ETHEREUM-DRONEYES/blob/master/object%20detection/img/WhatsApp%20Image%202020-03-21%20at%205.38.22%20PM.jpeg">
+<img src="img/WhatsApp Image 2020-06-21 at 2.50.56 PM.jpeg">
+
