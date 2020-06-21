@@ -5,7 +5,7 @@
  We are in a time where the outcomes of poaching are given a lot of value and money even though it is 
 considered illegal. Every day we are <b>losing hundreds of mammals belonging to endangered species</b> 
 this is mainly due to the lack of enforcement and proper 
-government regulations. The increased demand in boasting of pride in holding animal assets has crossed the limit, which made poachers, money-making entities in the black market. Continuous monitoring by the park rangers would be a tedious task and may not even be done properly at times too.
+government regulations. The increased demand in boasting of pride in holding animal assets has crossed the limit, which made poachers, money-making entities in the black market. Continuous monitoring by the park rangers would be a tedious task and may not even be done properly at times too. Animal Poaching has become a global problem of the 21st century. The increased spike in the rate of animal poaching is miserable to know. A part of this can be approached by using cuttingedge technologies. The Internet of Things and Computer Intelligence are few technologies that have been stupendously emerging hand in hand and can be used to solve world pressing problems.
 
 # Proposed Solution:-
 
