@@ -5,13 +5,13 @@
  We are in a time where the outcomes of poaching are given a lot of value and money even though it is 
 considered illegal. Every day we are <b>losing hundreds of mammals belonging to endangered species</b> 
 this is mainly due to the lack of enforcement and proper 
-government regulations.
+government regulations. The increased demand in boasting of pride in holding animal assets has crossed the limit, which made poachers, money-making entities in the black market. Continuous monitoring by the park rangers would be a tedious task and may not even be done properly at times too.
 
 # Proposed Solution:-
 
-The prototyped solution would have a life-changing impact on the lives of 
+The prototyped solution would have a life-changing impact on 
 animals and probably help us catch the predators too. Implementing this 
-technology solution into the real world, it reduces the poaching curve to the 
+technology solution into the real world,red uces the poaching curve to the 
 minimum. Not only being the eyes from the sky, our prototype can get the clear 
 image of the terra-firma and detect what is what with the help of its camera.
 
@@ -33,7 +33,7 @@ The antena is also connected to the module through the cable which allows for ea
 
 
 We collected few videos from the sourceful web, and then we ran our software on the video and the results are pretty amusing. It went well. 
-We took a video of a neighbourhood which has cars and trucks and another video from NatGeo Wild. One is for detecting the cars and the other is for detecting the types of animals. 
+We took a video of a neighbourhood which has cars and trucks and another video from NatGeo Wild. One is for detecting the cars and the other is for detecting the types of animals.  Accompanying the current world technological advancements in the Internet Of Things and Deep Learning; Object detection has become an effortless job. The goal of our research is to achieve a feasible perspective on anti-poaching.
 The software model we used is YOLOv3
 
 # How we built it?
